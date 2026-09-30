@@ -1,0 +1,3 @@
+english-words: TO access a full library of English words
+colorama: To color the letters in the terminal
+random module: To give user random words from the dictionary and set to guess
